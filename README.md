@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [barDAO](https://www.bardaobar.io/)
 
-- 🌱 I’m currently learning **Solidity, Python**
+- 🌱 I’m currently learning **Solidity**
 
 - 👨‍💻 All of my projects are available at [http://www.williampasternak.com/](http://www.williampasternak.com/)
 
