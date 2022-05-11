@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [http://www.williampasternak.com/](http://www.williampasternak.com/)
 
-- 📝 I regularly write articles on [http://www.onbarmanagement.com/](http://www.onbarmanagement.com/)
+- 📝 I regularly write articles on and share resources for the hospitality industry [http://www.onbarmanagement.com/posts](http://www.onbarmanagement.com/)
 
 - 📫 How to reach me **williamp@mail.com**
 
