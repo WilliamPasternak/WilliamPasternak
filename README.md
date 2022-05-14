@@ -30,15 +30,18 @@
   <!-- First Project --> 
  
   <h3 align="center">Little Armenia Cafe Website</h3>
+    <p align ='center'> A responsive website for a local pop-up restaurant serving up authentic Armenian cuisine.</p>
   <h4 align = 'center'> <strong>HTML, CSS, JS</strong></h4>
- <a href="https://github.com/WilliamPasternak/Little-Armenia-Cafe" target="_blank">
+ 
+  <p align = 'center'>
+  <a href="https://github.com/WilliamPasternak/Little-Armenia-Cafe" target="_blank">
     <img align ='center' src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-      
   <a href="https://littlearmeniacafe.com" target="_blank">
     <img align = 'center' src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
-   <p align ='center'> A responsive website for a local pop-up restaurant serving up authentic Armenian cuisine.</p>
+  </p>
+ 
   <p align ='center'><img align="center" src="https://i.ibb.co/58zk0nJ/Little-Armenia-Cafe.png" alt="Little Armenia Cafe Website" /></p>
 
  
@@ -49,15 +52,18 @@
   
   <!-- Second Project --> 
   <h3 align="center">Bartender Portfolio Website</h3>
+  <p> A fully responsive one page, scrolling portfolio website for a NYC based bartender.</p>
   <h4 align='center'> <strong>HTML, CSS, JS</strong> </h4>
-   <a href="https://github.com/WilliamPasternak/bartender-portfolio" target="_blank">
+   
+  <p align = 'center'>
+  <a href="https://github.com/WilliamPasternak/bartender-portfolio" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-      
   <a href="https://bartendingportfolio.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
-   <p> A fully responsive one page, scrolling portfolio website for a NYC based bartender.</p>
+  </p>
+   
   <p align = 'center'><img align="center" src="https://i.ibb.co/Kqr62Xd/Bartender-Portfolio.png" alt="Bartender Portfolio Website"></p>
 
  
