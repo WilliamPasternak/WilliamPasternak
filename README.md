@@ -26,31 +26,9 @@
 <table bordercolor="#66b2b2">
   
   <!-- First Project --> 
- 
-  <h3 align="center">Little Armenia Cafe Website</h3>
-    <p align ='center'> A responsive website for a local pop-up restaurant serving up authentic Armenian cuisine.</p>
-  <h4 align = 'center'> <strong>HTML, CSS, JS</strong></h4>
- 
-  <p align = 'center'>
-  <a href="https://github.com/WilliamPasternak/Little-Armenia-Cafe" target="_blank">
-    <img align ='center' src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-  <a href="https://littlearmeniacafe.com" target="_blank">
-    <img align = 'center' src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-  </p>
- 
-  <p align ='center'><img align="center" src="https://i.ibb.co/58zk0nJ/Little-Armenia-Cafe.png" alt="Little Armenia Cafe Website" /></p>
-
- 
-
   
-  
-  
-  
-  <!-- Second Project --> 
-  <h3 align="center">Bartender Portfolio Website</h3>
-  <p> A fully responsive one page, scrolling portfolio website for a NYC based bartender.</p>
+   <h3 align="center">Bartender Portfolio Website</h3>
+  <p align ='center'> A fully responsive one page, scrolling portfolio website for a NYC based bartender and hospitality consultant.</p>
   <h4 align='center'> <strong>HTML, CSS, JS</strong> </h4>
    
   <p align = 'center'>
@@ -64,4 +42,20 @@
   </p>
    
   <p align = 'center'><img align="center" src="https://i.ibb.co/FB3h5N6/Bartender-Portfolio.gif" alt="Bartender Portfolio Website"></p>
+  
  
+  <!-- Second Project -->
+  <h3 align="center">Little Armenia Cafe Website</h3>
+    <p align ='center'> A responsive website for a local pop-up restaurant serving up authentic Armenian cuisine.</p>
+  <h4 align = 'center'> <strong>HTML, CSS, JS</strong></h4>
+ 
+  <p align = 'center'>
+  <a href="https://github.com/WilliamPasternak/Little-Armenia-Cafe" target="_blank">
+    <img align ='center' src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://littlearmeniacafe.com" target="_blank">
+    <img align = 'center' src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+  </p>
+ 
+  <p align ='center'><img align="center" src="https://i.ibb.co/qBrppvg/Little-Armenia-Cafecom-Site-Overview.gif" alt="Little Armenia Cafe Website" /></p
