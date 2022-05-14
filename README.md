@@ -29,8 +29,6 @@
   
    <h3 align="center">Bartender Portfolio Website</h3>
   <p align ='center'> A fully responsive one page, scrolling portfolio website for a NYC based bartender and hospitality consultant.</p>
-  <h4 align='center'> <strong>HTML, CSS, JS</strong> </h4>
-   
 
 <!-- Icons -->
   <p align = 'center'>
@@ -46,11 +44,9 @@
 <!-- Gif Site Demo -->
   <p align = 'center'><img align="center" src="https://github.com/WilliamPasternak/Bartender-Portfolio/blob/main/Bartender-Portfolio.gif" alt="Bartender Portfolio Website"></p>
   
- 
   <!-- Second Project -->
   <h3 align="center">Little Armenia Cafe Website</h3>
     <p align ='center'> A responsive website for a local pop-up restaurant serving up authentic Armenian cuisine.</p>
-  <h4 align = 'center'> <strong>HTML, CSS, JS</strong></h4>
  
   <!-- Icons -->
   <p align = 'center'>
