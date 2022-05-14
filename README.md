@@ -27,25 +27,25 @@
 <table bordercolor="#66b2b2">
   
   <!-- First Project --> 
-  <p align="left">
+ 
   <h3 align="center">Little Armenia Cafe Website</h3>
    <p><strong>HTML, CSS, JS</strong> - A responsive website for a local pop-up restaurant serving up authentic Armenian cuisine.</p>
   <p align ='center'><img align="center" src="https://i.ibb.co/58zk0nJ/Little-Armenia-Cafe.png" alt="Little Armenia Cafe Website" /></p>
 
   <a href="https://github.com/WilliamPasternak/Little-Armenia-Cafe" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+    <img align ='center' src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
       
   <a href="https://littlearmeniacafe.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+    <img align = 'center' src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
-</p>
+
   
   
   
   
   <!-- Second Project --> 
-  <h3 align="right">Bartender Portfolio Website</h3>
+  <h3 align="center">Bartender Portfolio Website</h3>
    <p><strong>HTML, CSS, JS</strong> - A fully responsive one page, scrolling portfolio website for a NYC based bartender.</p>
   <p><img align="center" src="https://i.ibb.co/Kqr62Xd/Bartender-Portfolio.png" alt="Bartender Portfolio Website"></p>
 
