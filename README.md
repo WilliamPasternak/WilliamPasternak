@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm William Pasternak</h1>
 <h3 align="center">A software engineer from New York!</h3>
 
-- 🔭 I’m currently working on [barDAO](https://www.bardaobar.io/)
-
-- 👨‍💻 All of my projects are available at [http://www.williampasternak.com/](http://www.williampasternak.com/)
+- 👨‍💻 Many of my projects are available at [http://www.williampasternak.com/](http://www.williampasternak.com/)
 
 - 📝 I regularly write articles on and share resources for the hospitality industry [http://www.onbarmanagement.com/posts](http://www.onbarmanagement.com/)
 
