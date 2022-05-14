@@ -27,14 +27,13 @@
 <table bordercolor="#66b2b2">
   
   <!-- First Project --> 
+  <h3 align="left">Little Armenia Cafe</h3>
   <p><img align="center" src="https://i.ibb.co/58zk0nJ/Little-Armenia-Cafe.png" alt="Little Armenia Cafe Website" /></p>
-          
-     
+
   <a href="https://github.com/WilliamPasternak/Little-Armenia-Cafe" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
           
- 
   <a href="https://littlearmeniacafe.com" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
