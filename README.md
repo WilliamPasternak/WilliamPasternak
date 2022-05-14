@@ -29,7 +29,8 @@
   <!-- First Project --> 
  
   <h3 align="center">Little Armenia Cafe Website</h3>
-   <p><strong>HTML, CSS, JS</strong> - A responsive website for a local pop-up restaurant serving up authentic Armenian cuisine.</p>
+  <h4 align = 'center'> <strong>HTML, CSS, JS</strong></h4>
+   <p align ='center'> A responsive website for a local pop-up restaurant serving up authentic Armenian cuisine.</p>
   <p align ='center'><img align="center" src="https://i.ibb.co/58zk0nJ/Little-Armenia-Cafe.png" alt="Little Armenia Cafe Website" /></p>
 
   <a href="https://github.com/WilliamPasternak/Little-Armenia-Cafe" target="_blank">
