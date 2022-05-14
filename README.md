@@ -43,12 +43,10 @@
   </a>  
           
  
-  <a href="https://littlearmeniacafe.com" target="_blank">
+
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
         <p><strong>HTML, CSS, JS</strong> - A responsive website for a local pop-up restaurant serving up authentic Armenian cuisine.</p>
-    </td>
+    
     
     
     <!-- Second Project --> 
