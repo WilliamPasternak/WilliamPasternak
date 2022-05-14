@@ -58,4 +58,5 @@
   </a>
   </p>
  
-  <p align ='center'><img align="center" src="https://i.ibb.co/qBrppvg/Little-Armenia-Cafecom-Site-Overview.gif" alt="Little Armenia Cafe Website" /></p
+  <p align ='center'>
+    <img align="center" src="https://github.com/WilliamPasternak/Little-Armenia-Cafe/blob/main/Little%20Armenia%20Cafe/LittleArmeniaCafecom_Site_Overview.gif" alt="Little Armenia Cafe Website" /></p
