@@ -31,6 +31,8 @@
   <p align ='center'> A fully responsive one page, scrolling portfolio website for a NYC based bartender and hospitality consultant.</p>
   <h4 align='center'> <strong>HTML, CSS, JS</strong> </h4>
    
+
+<!-- Icons -->
   <p align = 'center'>
   <a href="https://github.com/WilliamPasternak/bartender-portfolio" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
@@ -41,7 +43,8 @@
   </a>
   </p>
    
-  <p align = 'center'><img align="center" src="https://i.ibb.co/FB3h5N6/Bartender-Portfolio.gif" alt="Bartender Portfolio Website"></p>
+<!-- Gif Site Demo -->
+  <p align = 'center'><img align="center" src="https://github.com/WilliamPasternak/Bartender-Portfolio/blob/main/Bartender-Portfolio.gif" alt="Bartender Portfolio Website"></p>
   
  
   <!-- Second Project -->
@@ -49,6 +52,7 @@
     <p align ='center'> A responsive website for a local pop-up restaurant serving up authentic Armenian cuisine.</p>
   <h4 align = 'center'> <strong>HTML, CSS, JS</strong></h4>
  
+  <!-- Icons -->
   <p align = 'center'>
   <a href="https://github.com/WilliamPasternak/Little-Armenia-Cafe" target="_blank">
     <img align ='center' src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
@@ -57,6 +61,6 @@
     <img align = 'center' src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
   </p>
- 
+ <!-- Gif Site Demo -->
   <p align ='center'>
     <img align="center" src="https://github.com/WilliamPasternak/Little-Armenia-Cafe/blob/main/Little%20Armenia%20Cafe/LittleArmeniaCafecom_Site_Overview.gif" alt="Little Armenia Cafe Website" /></p
