@@ -40,7 +40,6 @@
   </a>
      
     <!-- Second Project --> 
-    <td width="50%" valign="top">
       <h3 align="center">Bartender Portfolio</h3>
       <a target="_blank" href="https://bartendingportfolio.netlify.app/">
             <img src="https://i.ibb.co/Kqr62Xd/Bartender-Portfolio.png" width="100%"  alt="Bartender Portfolio Website"/>
@@ -55,7 +54,3 @@
   </a>
       </p>
         <p><strong>HTML, CSS, Javascript</strong> - A fully responsive one page, scrolling portfolio website for a NYC based bartender.</p>
-    </td>
-  </tr>
- 
-</table>
