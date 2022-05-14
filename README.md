@@ -26,18 +26,9 @@
 <h1 align="center"> Recent Projects</h1>
 <table bordercolor="#66b2b2">
   
-  <tr>
-
-<!-- First Project --> 
-    <td width="50%" valign="top">
-      <h3 align="center">Little Armenia Cafe</h3>
-        <br />
-        <a target="_blank" href="https://littlearmeniacafe.com/">
+  <!-- First Project --> 
             <img src="https://i.ibb.co/58zk0nJ/Little-Armenia-Cafe.png" width="100%" alt="Armenian Cafe Website"/>
-        </a>
-        <br />
-        <p align="center">
-          
+     
   <a href="https://github.com/WilliamPasternak/Little-Armenia-Cafe" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
