@@ -20,3 +20,57 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=williampasternak&" alt="williampasternak" /></p>
 
+
+
+
+<h1 align="center"> Recent Projects</h1>
+<table bordercolor="#66b2b2">
+  
+  <tr>
+
+<!-- First Project --> 
+    <td width="50%" valign="top">
+      <h3 align="center">Little Armenia Cafe</h3>
+        <br />
+        <a target="_blank" href="https://littlearmeniacafe.com/">
+            <img src="https://i.ibb.co/58zk0nJ/Little-Armenia-Cafe.png" width="100%" alt="Armenian Cafe Website"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/WilliamPasternak/Little-Armenia-Cafe" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+          
+ 
+  <a href="https://littlearmeniacafe.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML, CSS, JS</strong> - A responsive website for a local pop-up restaurant serving up authentic Armenian cuisine.</p>
+    </td>
+    
+    
+    <!-- Second Project --> 
+    <td width="50%" valign="top">
+      <h3 align="center">Bartender Portfolio</h3>
+        <br />
+      <a target="_blank" href="https://bartendingportfolio.netlify.app/">
+            <img src="https://i.ibb.co/Kqr62Xd/Bartender-Portfolio.png" width="100%"  alt="Bartender Portfolio Website"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/WilliamPasternak/bartender-portfolio" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://bartendingportfolio.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML, CSS, Javascript</strong> - A fully responsive one page, scrolling portfolio website for a NYC based bartender.</p>
+    </td>
+  </tr>
+  
+</table>
+
