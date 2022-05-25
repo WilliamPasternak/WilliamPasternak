@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm William Pasternak</h1>
-<h3 align="center">A software engineer from New York!</h3>
+<h1 align="center">William Pasternak</h1>
+<h3 align="center">New York City based Software Engineer</h3>
 
 - 👨‍💻 Many of my projects are available at [http://www.williampasternak.com/](http://www.williampasternak.com/)
 
