@@ -10,8 +10,28 @@
 <h1 align="center"> Recent Projects</h1>
 <table bordercolor="#66b2b2">
   
-  <!-- First Project --> 
-  
+<!-- Project --> 
+   <h3 align="center">Busboy Website</h3>
+  <p align ='center'> Busboy is a platform highlighting the stories, lessons, and advice from members of the hospitality industry.  </p>
+
+<!-- Icons -->
+  <p align = 'center'>
+  <a href="https://github.com/WilliamPasternak/busboy" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://busboy.co/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+   
+  </a>
+  </p>
+   
+<!-- Gif Site Demo -->
+  <p align = 'center'><img align="center" src="https://github.com/WilliamPasternak/busboy/blob/main/Busboy.gif" alt="Bartender Portfolio Website"></p>
+
+
+
+
+  <!-- Project --> 
    <h3 align="center">Bartender Portfolio Website</h3>
   <p align ='center'> A fully responsive one page, scrolling portfolio website for a NYC based bartender and hospitality consultant.</p>
 
@@ -28,8 +48,9 @@
    
 <!-- Gif Site Demo -->
   <p align = 'center'><img align="center" src="https://github.com/WilliamPasternak/Bartender-Portfolio/blob/main/Bartender-Portfolio.gif" alt="Bartender Portfolio Website"></p>
+ 
   
-  <!-- Second Project -->
+  <!-- Project -->
   <h3 align="center">Little Armenia Cafe Website</h3>
     <p align ='center'> A responsive website for a local pop-up restaurant serving up authentic Armenian cuisine.</p>
  
