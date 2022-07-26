@@ -26,7 +26,7 @@
   </p>
    
 <!-- Gif Site Demo -->
-  <p align = 'center'><img align="center" src="https://github.com/WilliamPasternak/busboy/blob/main/Busboy.gif" alt="Bartender Portfolio Website"></p>
+  <p align = 'center'><img align="center" src="https://github.com/WilliamPasternak/busboy/blob/main/busyboy.gif" alt="Bartender Portfolio Website"></p>
 
 
 
