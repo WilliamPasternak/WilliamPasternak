@@ -1,12 +1,6 @@
 <h1 align="center">William Pasternak</h1>
 <h3 align="center">New York City based Software Engineer</h3>
 
-- 👨‍💻 Many of my projects are available at [http://www.williampasternak.com/](http://www.williampasternak.com/)
-
-- 📝 I regularly write articles on and share resources for the hospitality industry [http://www.onbarmanagement.com/posts](http://www.onbarmanagement.com/)
-
-- 📫 How to reach me **williamp@mail.com**
-
 <h1 align="center"> Recent Projects</h1>
 <table bordercolor="#66b2b2">
   
