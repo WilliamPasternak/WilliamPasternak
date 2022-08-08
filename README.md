@@ -1,6 +1,3 @@
-<h1 align="center">William Pasternak</h1>
-<h3 align="center">New York City based Software Engineer</h3>
-
 <h1 align="center"> Recent Projects</h1>
 <table bordercolor="#66b2b2">
   
