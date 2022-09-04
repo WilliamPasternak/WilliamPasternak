@@ -5,6 +5,9 @@
    <h3 align="center">Busboy Website</h3>
   <p align ='center'> Busboy is a platform highlighting the stories, lessons, and advice from members of the hospitality industry.  </p>
 
+<!-- Gif Site Demo -->
+  <p align = 'center'><img align="center" src="https://github.com/WilliamPasternak/busboy/blob/main/busyboy.gif" alt="Bartender Portfolio Website"></p>
+
 <!-- Icons -->
   <p align = 'center'>
   <a href="https://github.com/WilliamPasternak/busboy" target="_blank">
@@ -15,18 +18,31 @@
    
   </a>
   </p>
-   
+
+ <!-- Project --> 
+   <h3 align="center">Movie Night</h3>
+  <p align ='center'> A fullstack web application utilizing The Movie Database's API.</p>
+
 <!-- Gif Site Demo -->
-  <p align = 'center'><img align="center" src="https://github.com/WilliamPasternak/busboy/blob/main/busyboy.gif" alt="Bartender Portfolio Website"></p>
+  <p align = 'center'><img align="center" src="https://github.com/WilliamPasternak/MovieNight/blob/main/MovieNight%20Walkthrough.gif" alt="Movie Night web application"></p>
+  
+<!-- Icons -->
+  <p align = 'center'>
+  <a href="https://github.com/WilliamPasternak/MovieNight" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
 
-
-
-
+  </p>
+  
+ 
   <!-- Project --> 
    <h3 align="center">Bartender Portfolio Website</h3>
   <p align ='center'> A fully responsive one page, scrolling portfolio website for a NYC based bartender and hospitality consultant.</p>
-
-<!-- Icons -->
+   
+<!-- Gif Site Demo -->
+  <p align = 'center'><img align="center" src="https://github.com/WilliamPasternak/Bartender-Portfolio/blob/main/Bartender-Portfolio.gif" alt="Bartender Portfolio Website"></p>
+  
+  <!-- Icons -->
   <p align = 'center'>
   <a href="https://github.com/WilliamPasternak/bartender-portfolio" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
@@ -36,9 +52,6 @@
    
   </a>
   </p>
-   
-<!-- Gif Site Demo -->
-  <p align = 'center'><img align="center" src="https://github.com/WilliamPasternak/Bartender-Portfolio/blob/main/Bartender-Portfolio.gif" alt="Bartender Portfolio Website"></p>
  
   
   <!-- Project -->
