@@ -15,7 +15,23 @@
   </a>  
   <a href="https://busboy.co/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-   
+  </a>
+  </p>
+  
+   <!-- Project --> 
+   <h3 align="center">Cocktail Dilution Calculator </h3>
+  <p align ='center'> This is a web app to quickly calculate the amount of water needed to dilute a pre-batched cocktail.</p>
+
+<!-- Gif Site Demo -->
+  <p align = 'center'><img align="center" src="https://github.com/WilliamPasternak/Dilution-Calculator/blob/main/Dilution.gif" alt="Cocktail Dilution web application"></p>
+  
+<!-- Icons -->
+  <p align = 'center'>
+  <a href="https://github.com/WilliamPasternak/Dilution-Calculator" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://dilution-calculator.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
   </p>
 
@@ -31,7 +47,6 @@
   <a href="https://github.com/WilliamPasternak/MovieNight" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-
   </p>
   
  
@@ -49,7 +64,6 @@
   </a>  
   <a href="https://bartendingportfolio.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-   
   </a>
   </p>
  
@@ -71,7 +85,8 @@
   <p align ='center'>
     <img align="center" src="https://github.com/WilliamPasternak/Little-Armenia-Cafe/blob/main/Little%20Armenia%20Cafe/LittleArmeniaCafecom_Site_Overview.gif" alt="Little Armenia Cafe Website" /></p
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect with me</h3>
+  
 <p align="center">
 <a href="https://twitter.com/whalepasternak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="whalepasternak" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/williampasternak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="williampasternak" height="30" width="40" /></a>
