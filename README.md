@@ -1,29 +1,12 @@
 <h1 align="center"> Recent Projects</h1>
 <table bordercolor="#66b2b2">
-  
-<!-- busboy --> 
-   <h3 align="center">Busboy Website</h3>
-  <p align ='center'> Busboy is a platform highlighting the stories, lessons, and advice from members of the hospitality industry.  </p>
-
-<!-- Gif Site Demo -->
-  <p align = 'center'><img align="center" src="https://github.com/WilliamPasternak/busboy/blob/main/busyboy.gif" alt="Bartender Portfolio Website"></p>
-
-<!-- Icons -->
-  <p align = 'center'>
-  <a href="https://github.com/WilliamPasternak/busboy" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-  <a href="https://busboy.co/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-  </p>
-  
+    
   <!-- bread -->
   <h3 align="center">bread</h3>
   <p align ='center'> bread is a free resource for reviewing and sharing salary information for the hospitality industry. It is completely anonymous and crowd-sourced. </p>
 
 <!-- Gif Site Demo -->
-  <p align = 'center'><img align="center" src="https://github.com/WilliamPasternak/bread/blob/main/breadHero.png" alt="bread project website"></p>
+  <p align = 'center'><img align="center" src="https://github.com/WilliamPasternak/bread/blob/main/bread.gif" alt="bread project website"></p>
 
 <!-- Icons -->
   <p align = 'center'>
@@ -36,17 +19,7 @@
   </a>
 -->
   </p>
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+   
    <!-- Cocktail Dilution Calculator --> 
    <h3 align="center">Cocktail Dilution Calculator </h3>
   <p align ='center'> This is a web app to quickly calculate the amount of water needed to dilute a pre-batched cocktail.</p>
@@ -64,21 +37,23 @@
   </a>
   </p>
 
- <!-- Movie Night --> 
-   <h3 align="center">Movie Night</h3>
-  <p align ='center'> A fullstack web application utilizing The Movie Database's API.</p>
+<!-- busboy --> 
+   <h3 align="center">Busboy Website</h3>
+  <p align ='center'> Busboy is a platform highlighting the stories, lessons, and advice from members of the hospitality industry.  </p>
 
 <!-- Gif Site Demo -->
-  <p align = 'center'><img align="center" src="https://github.com/WilliamPasternak/MovieNight/blob/main/MovieNight%20Walkthrough.gif" alt="Movie Night web application"></p>
-  
+  <p align = 'center'><img align="center" width = '600' height = '375'  src="https://github.com/WilliamPasternak/busboy/blob/main/busyboy.gif" alt="Bartender Portfolio Website"></p>
+
 <!-- Icons -->
   <p align = 'center'>
-  <a href="https://github.com/WilliamPasternak/MovieNight" target="_blank">
+  <a href="https://github.com/WilliamPasternak/busboy" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
+  <a href="https://busboy.co/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
   </p>
-  
- 
+
   <!-- Bartender Portfolio --> 
    <h3 align="center">Bartender Portfolio Website</h3>
   <p align ='center'> A fully responsive one page, scrolling portfolio website for a NYC based bartender and hospitality consultant.</p>
