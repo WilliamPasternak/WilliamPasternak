@@ -1,3 +1,25 @@
+<div align = 'center'>
+    <h1> William Pasternak <br> Software Engineer | NYC </h1>
+    <p><strong>I am a New York City based Software Engineer with a background in hospitality.</strong></p>
+</div>
+
+<div align = 'center'>
+While attending Rutgers Business School for Information Systems, I worked in the hospitality industry. After graduation, I moved to NYC and continued in the field for a few years. During my career, I constantly used terrible software that malfunctioned all the time. I felt like I could do better, so I started learning to code in my free time so that I could make software that would improve the lives of my colleagues.
+
+I then started creating and sharing [free resources and tools](http://www.onbarmanagement.com/) for people in the hospitality industry. 
+
+Once the pandemic hit, the service industry was devastated. I leaned into my engineering skillset and made websites for small businesses during the pandemic. I continued to freelance for a few years and have had some wonderful [clients.](https://www.williampasternak.com/portfolio.html)
+
+<strong >  I’m now ready to join a product team to build software that people love and use daily.  </strong>
+</div>
+    
+<h2> Contact </h2>
+
+- 📫 **william@williampasternak.com**
+
+- 🌐 [WilliamPasternak.com](https://www.williampasternak.com/)
+
+
 <h1 align="center"> Recent Projects</h1>
 <table bordercolor="#66b2b2">
     
