@@ -3,7 +3,9 @@
     
   <!-- bread -->
   <h3 align="center">bread</h3>
+    <strong> <p align = 'center' > MongoDB | Express.js | Node.js | EJS </p> </strong>
   <p align ='center'> bread is a free resource for reviewing and sharing salary information for the hospitality industry. It is completely anonymous and crowd-sourced. </p>
+    
 
 <!-- Gif Site Demo -->
   <p align = 'center'><img align="center" src="https://github.com/WilliamPasternak/bread/blob/main/bread.gif" alt="bread project website"></p>
@@ -24,6 +26,7 @@
  
 <!-- busboy --> 
    <h3 align="center">Busboy Website</h3>
+        <strong> <p align = 'center' > HTML | CSS | SAAS | Javascript | E-Commerce </p> </strong>
   <p align ='center'> Busboy is a platform highlighting the stories, lessons, and advice from members of the hospitality industry.  </p>
 
 <!-- Gif Site Demo -->
@@ -43,6 +46,7 @@
   
 <!-- Theophilio --> 
    <h3 align="center">Theophilio</h3>
+        <strong> <p align = 'center' > Liquid | SCSS | JavaScript | E-Commerce </p> </strong>
   <p align ='center'> An E-Commerce platform for Theophilio, a Brooklyn-based contemporary ready-to-wear label celebrating culture, community, and diversity. </p>
 
 <!-- Gif Site Demo -->
@@ -60,6 +64,7 @@
 
   <!-- Cocktail Dilution Calculator --> 
    <h3 align="center">Cocktail Dilution Calculator </h3>
+        <strong> <p align = 'center' > HTML | CSS | JavaScript </p> </strong>
   <p align ='center'> This is a web app to quickly calculate the amount of water needed to dilute a pre-batched cocktail.</p>
 
 <!-- Gif Site Demo -->
@@ -78,6 +83,7 @@
     
   <!-- Bartender Portfolio --> 
    <h3 align="center">Bartender Portfolio Website</h3>
+        <strong> <p align = 'center' > HTML | CSS | Javascript </p> </strong>
   <p align ='center'> A fully responsive one page, scrolling portfolio website for a NYC based bartender and hospitality consultant.</p>
    
 <!-- Gif Site Demo -->
