@@ -104,7 +104,7 @@ Once the pandemic hit, the service industry was devastated. I leaned into my eng
     
     
   <!-- Bartender Portfolio --> 
-   <h3 align="center">Bartender Portfolio Website</h3>
+   <h3 align="center">Beverage Consultant Portfolio Website</h3>
         <strong> <p align = 'center' > HTML | CSS | Javascript </p> </strong>
   <p align ='center'> A fully responsive one page, scrolling portfolio website for a NYC based bartender and hospitality consultant.</p>
    
