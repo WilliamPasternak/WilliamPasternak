@@ -30,7 +30,8 @@ Once the pandemic hit, the service industry was devastated. I leaned into my eng
     
 
 <!-- Gif Site Demo -->
-  <p align = 'center'><img align="center" src="https://github.com/WilliamPasternak/bread/blob/main/bread.gif" alt="bread project website"></p>
+  <p align = 'center'><img align="center" src="https://github.com/WilliamPasternak/bread/blob/main/bread.gif" alt="bread project walkthrough"></p>
+  
 
 <!-- Icons -->
   <p align = 'center'>
