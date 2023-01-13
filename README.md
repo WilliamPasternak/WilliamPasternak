@@ -46,6 +46,24 @@ Once the pandemic hit, the service industry was devastated. I leaned into my eng
 
   </p>
    
+ <!-- React Dashboard --> 
+   <h3 align="center">Delivery Order Dashboard</h3>
+        <strong> <p align = 'center' > React | Javascript | HTML | CSS </p> </strong>
+  <p align ='center'> A React dashboard for restaurants to monitor their delivery orders from different services all in one place. </p>
+
+<!-- Gif Site Demo -->
+  <p align = 'center'><img align="center" width = '600' height = '375'  src="https://github.com/WilliamPasternak/React-Delivery-App/raw/main/walkthrough.gif" alt="Delivery App Dashboard Screen"></p>
+
+<!-- Icons -->
+  <p align = 'center'>
+  <a href="https://github.com/WilliamPasternak/React-Delivery-App" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+  </p>   
+    
  
 <!-- busboy --> 
    <h3 align="center">Busboy</h3>
@@ -61,26 +79,6 @@ Once the pandemic hit, the service industry was devastated. I leaned into my eng
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
   <a href="https://busboy.co/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-  </p>
-
-    
-  
-<!-- Theophilio --> 
-   <h3 align="center">Theophilio</h3>
-        <strong> <p align = 'center' > Liquid | SCSS | JavaScript | E-Commerce </p> </strong>
-  <p align ='center'> An E-Commerce platform for Theophilio, a Brooklyn-based contemporary ready-to-wear label celebrating culture, community, and diversity. </p>
-
-<!-- Gif Site Demo -->
-  <p align = 'center'><img align="center" width = '600' height = '375'  src="https://github.com/WilliamPasternak/Theophilio/blob/main/Theophilio.png" alt="Bartender Portfolio Website"></p>
-
-<!-- Icons -->
-  <p align = 'center'>
-  <a href="https://github.com/WilliamPasternak/Theophilio" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-  <a href="https://theophilio.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
   </p>
