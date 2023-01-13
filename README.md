@@ -26,7 +26,7 @@ Once the pandemic hit, the service industry was devastated. I leaned into my eng
   <!-- bread -->
   <h3 align="center">bread</h3>
     <strong> <p align = 'center' > MongoDB | Express.js | Node.js | EJS </p> </strong>
-  <p align ='center'> bread is a free resource for reviewing and sharing salary information for the hospitality industry. It is completely anonymous and crowd-sourced. </p>
+  <p align ='center'> bread is a Full-Stack web app for reviewing and sharing salary information for the hospitality industry. It is completely anonymous and crowd-sourced. </p>
     
 
 <!-- Gif Site Demo -->
@@ -59,7 +59,7 @@ Once the pandemic hit, the service industry was devastated. I leaned into my eng
   <a href="https://github.com/WilliamPasternak/React-Delivery-App" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="#" target="_blank">
+  <a href="https://delivery-order-dashboard.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
   </p>   
