@@ -8,7 +8,7 @@ While attending Rutgers Business School for Information Systems, I worked in the
 
 I then started creating and sharing [free resources and tools](http://www.onbarmanagement.com/) for people in the hospitality industry. 
 
-Once the pandemic hit, the service industry was devastated. I leaned into my engineering skillset and made websites for small businesses during the pandemic. I continued to freelance for a few years and have had some wonderful [clients.](https://www.williampasternak.com/portfolio.html)
+Once the pandemic hit, the service industry was devastated. I leaned into my engineering skillset and made websites for small businesses during the pandemic. I continued to freelance for a few years and have had some wonderful [clients.](https://www.williampasternak.com/)
 
 <strong >  I’m now ready to join a product team to build software that people love and use daily.  </strong>
 </div>
