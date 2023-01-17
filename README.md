@@ -107,8 +107,8 @@ Once the pandemic hit, the service industry was devastated. I leaned into my eng
         <strong> <p align = 'center' > HTML | CSS | Javascript </p> </strong>
   <p align ='center'> A fully responsive one page, scrolling portfolio website for a NYC based bartender and hospitality consultant.</p>
    
-<!-- Gif Site Demo -->
-  <p align = 'center'><img align="center" src="https://github.com/WilliamPasternak/Bartender-Portfolio/blob/main/Bartender-Portfolio.gif" alt="Bartender Portfolio Website"></p>
+<!-- Site Demo -->
+  <p align = 'center'><img align="center" width = '600' height = '375' src="https://github.com/WilliamPasternak/Bartender-Portfolio/blob/main/Beverage%20Consultant.png?raw=true" alt="Bartender Portfolio Website"></p>
   
   <!-- Icons -->
   <p align = 'center'>
