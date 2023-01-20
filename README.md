@@ -83,27 +83,27 @@ Once the pandemic hit, the service industry was devastated. I leaned into my eng
   </a>
   </p>
 
-  <!-- Cocktail Dilution Calculator --> 
-   <h3 align="center">Cocktail Dilution Calculator </h3>
+  <!-- Top Flor Beverage --> 
+   <h3 align="center"> Top Flor Wine </h3>
         <strong> <p align = 'center' > HTML | CSS | JavaScript </p> </strong>
-  <p align ='center'> This is a web app to quickly calculate the amount of water needed to dilute a pre-batched cocktail.</p>
+  <p align ='center'> A fully responsive website outlining for 'Top Flor' an agency specializing in wine and cocktail program curation.</p>
 
 <!-- Gif Site Demo -->
-  <p align = 'center'><img align="center" src="https://github.com/WilliamPasternak/Dilution-Calculator/blob/main/Dilution.gif" alt="Cocktail Dilution web application"></p>
+  <p align = 'center'><img align="center" src="https://github.com/WilliamPasternak/Top-Flor/raw/main/Top%20Floor%20Walkthrough.gif" alt="Top Flor Beverage website"></p>
   
 <!-- Icons -->
   <p align = 'center'>
-  <a href="https://github.com/WilliamPasternak/Dilution-Calculator" target="_blank">
+  <a href="https://github.com/WilliamPasternak/Top-Flor" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="https://dilution-calculator.netlify.app/" target="_blank">
+  <a href="https://www.topflorwine.com" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
   </p>
     
     
   <!-- Bartender Portfolio --> 
-   <h3 align="center">Beverage Consultant Portfolio </h3>
+   <h3 align="center"> Melissa Markert Portfolio </h3>
         <strong> <p align = 'center' > HTML | CSS | Javascript </p> </strong>
   <p align ='center'> A fully responsive one page, scrolling portfolio website for a NYC based bartender and hospitality consultant.</p>
    
