@@ -82,6 +82,20 @@ Once the pandemic hit, the service industry was devastated. I leaned into my eng
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
   </p>
+    
+  
+    
+  <!-- No Spoilers  -->
+   <h3 align="center">NO SPOILERS! Chrome Extension</h3>
+        <strong> <p align = 'center' > Javascript </strong>
+  <p align ='center'> Hide Episode Titles, Descriptions, and Images to prevent a streaming site from spoiling your favorite show.  </p>
+
+<!-- Gif Site Demo -->
+  <p align = 'center'><img align="center" width = '600' height = '375'  src="https://github.com/WilliamPasternak/No-Spoilers-Chrome-Extension/blob/main/No%20Spoilers.gif?raw=true" alt="No Spoilers! Chrome extension walkthrough"></p>
+    
+    
+    
+    
 
   <!-- Top Flor Beverage --> 
    <h3 align="center"> Top Flor Wine </h3>
