@@ -92,7 +92,13 @@ Once the pandemic hit, the service industry was devastated. I leaned into my eng
 
 <!-- Gif Site Demo -->
   <p align = 'center'><img align="center" width = '600' height = '375'  src="https://github.com/WilliamPasternak/No-Spoilers-Chrome-Extension/blob/main/No%20Spoilers.gif?raw=true" alt="No Spoilers! Chrome extension walkthrough"></p>
-    
+ 
+<!-- Icons -->
+  <p align = 'center'>
+  <a href="https://github.com/WilliamPasternak/No-Spoilers-Chrome-Extension" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  </p>
     
     
     
