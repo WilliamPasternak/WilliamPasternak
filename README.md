@@ -86,7 +86,7 @@ Once the pandemic hit, the service industry was devastated. I leaned into my eng
   
     
   <!-- No Spoilers  -->
-   <h3 align="center">NO SPOILERS! Chrome Extension</h3>
+   <h3 align="center">NO SPOILERS! for Hulu Chrome Extension</h3>
         <strong> <p align = 'center' > Javascript </strong>
   <p align ='center'> Hide Episode Titles, Descriptions, and Images to prevent a streaming site from spoiling your favorite show.  </p>
 
