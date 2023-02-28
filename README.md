@@ -122,20 +122,20 @@ Once the pandemic hit, the service industry was devastated. I leaned into my eng
   </p>
     
     
-  <!-- Bartender Portfolio --> 
-   <h3 align="center"> Melissa Markert Portfolio </h3>
+  <!-- Banned Word & Phrase Checker --> 
+   <h3 align="center"> Banned Word & Phrase Checker </h3>
         <strong> <p align = 'center' > HTML | CSS | Javascript </p> </strong>
-  <p align ='center'> A fully responsive one page, scrolling portfolio website for a NYC based bartender and hospitality consultant.</p>
+  <p align ='center'> A tool for writers and editors to quickly check if their writing sample contains any undesireable words or phrases such as clichés.</p>
    
 <!-- Site Demo -->
-  <p align = 'center'><img align="center" width = '600' height = '375' src="https://github.com/WilliamPasternak/Bartender-Portfolio/blob/main/Beverage%20Consultant.png?raw=true" alt="Bartender Portfolio Website"></p>
+  <p align = 'center'><img align="center" width = '600' height = '375' src="https://github.com/WilliamPasternak/Banned-Phrases/raw/main/walkthrough.gif" alt="Banned Word and Phrase Checker"></p>
   
   <!-- Icons -->
   <p align = 'center'>
-  <a href="https://github.com/WilliamPasternak/bartender-portfolio" target="_blank">
+  <a href="https://github.com/WilliamPasternak/Banned-Phrases" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="https://bartendingportfolio.netlify.app/" target="_blank">
+  <a href="https://bannedphrases.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
   </p>
