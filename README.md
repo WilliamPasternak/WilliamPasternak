@@ -4,13 +4,15 @@
 </div>
 
 <div align = 'center'>
-During my hospitality career, I constantly used terrible software that malfunctioned all the time. I felt like I could do better, so I started learning to code in my free time so that I could make software that would improve the lives of my colleagues.
+<p> I learned to code so that I could make software that would improve my life and the lives of my coworkers. </p>
+    
+    
+I began creating and sharing [free resources and tools](http://www.onbarmanagement.com/) for people in the hospitality industry.
 
-I then started creating, and sharing [free resources and tools](http://www.onbarmanagement.com/) for people in the hospitality industry. 
+    
+<p> I have been freelancing for the last several years and have had some wonderful [clients.](https://www.williampasternak.com/) but </p> <br>
+<strong> I am now ready to join a product team to build software that people love and use daily. </strong>
 
-Once the pandemic hit, the service industry was devastated. I leaned into my engineering skillset and made websites for small businesses during the pandemic. I continued to freelance for a few years and have had some wonderful [clients.](https://www.williampasternak.com/)
-
-<strong >  I’m now ready to join a product team to build software that people love and use daily.  </strong>
 </div>
     
 <!-- Social -->
