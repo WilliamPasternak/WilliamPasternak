@@ -4,7 +4,7 @@
 </div>
 
 <div align = 'center'>
-While attending Rutgers Business School for Information Systems, I worked in the hospitality industry. After graduation, I moved to NYC and continued in the field for a few years. During my career, I constantly used terrible software that malfunctioned all the time. I felt like I could do better, so I started learning to code in my free time so that I could make software that would improve the lives of my colleagues.
+During my hospitality career, I constantly used terrible software that malfunctioned all the time. I felt like I could do better, so I started learning to code in my free time so that I could make software that would improve the lives of my colleagues.
 
 I then started creating, and sharing [free resources and tools](http://www.onbarmanagement.com/) for people in the hospitality industry. 
 
@@ -24,108 +24,3 @@ Once the pandemic hit, the service industry was devastated. I leaned into my eng
 <!-- Tools -->
 <h3 align="center">Languages and Tools</h3>
 <p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
-
-
-<h1 align="center"> Recent Projects</h1>
-<table bordercolor="#66b2b2">
-    
-  <!-- bread -->
-  <h3 align="center">bread</h3>
-    <strong> <p align = 'center' > MongoDB | Express.js | Node.js | EJS </p> </strong>
-  <p align ='center'> bread is a Full-Stack web app for reviewing and sharing salary information for the hospitality industry. It is completely anonymous and crowd-sourced. </p>
-    
-
-<!-- Gif Site Demo -->
-  <p align = 'center'><img align="center" src="https://github.com/WilliamPasternak/bread/blob/main/bread.gif" alt="bread project walkthrough"></p>
-  
-
-<!-- Icons -->
-  <p align = 'center'>
-  <a href="https://github.com/WilliamPasternak/bread" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-  
- 
-  <a href="http://www.86bread.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-
-  </p>
-   
- <!-- React Dashboard --> 
-   <h3 align="center">Delivery Order Dashboard</h3>
-        <strong> <p align = 'center' > React | Javascript | HTML | CSS </p> </strong>
-  <p align ='center'> A React dashboard for restaurants to monitor their delivery orders from different services all in one place. </p>
-
-<!-- Gif Site Demo -->
-  <p align = 'center'><img align="center" width = '600' height = '375'  src="https://github.com/WilliamPasternak/React-Delivery-App/raw/main/walkthrough.gif" alt="Delivery App Dashboard Screen"></p>
-
-<!-- Icons -->
-  <p align = 'center'>
-  <a href="https://github.com/WilliamPasternak/React-Delivery-App" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-  <a href="https://delivery-order-dashboard.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-  </p>   
-    
- 
-<!-- busboy --> 
-   <h3 align="center">Busboy</h3>
-        <strong> <p align = 'center' > HTML | CSS | SAAS | Javascript | E-Commerce </p> </strong>
-  <p align ='center'> Busboy is a platform highlighting the stories, lessons, and advice from members of the hospitality industry.  </p>
-
-<!-- Gif Site Demo -->
-  <p align = 'center'><img align="center" width = '600' height = '375'  src="https://github.com/WilliamPasternak/busboy/blob/main/busyboy.gif" alt="busboy site walkthrough"></p>
-    
-<!-- Icons -->
-  <p align = 'center'>
-  <a href="https://github.com/WilliamPasternak/busboy" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-  <a href="https://busboy.co/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-  </p>
-    
-  
-    
-  <!-- No Spoilers  -->
-   <h3 align="center">NO SPOILERS! for Hulu Chrome Extension</h3>
-        <strong> <p align = 'center' > Javascript </strong>
-  <p align ='center'> Hide Episode Titles, Descriptions, and Images to prevent a streaming site from spoiling your favorite show.  </p>
-
-<!-- Gif Site Demo -->
-  <p align = 'center'><img align="center" width = '600' height = '375'  src="https://github.com/WilliamPasternak/No-Spoilers-Chrome-Extension/blob/main/No%20Spoilers.gif?raw=true" alt="No Spoilers! Chrome extension walkthrough"></p>
- 
-<!-- Icons -->
-  <p align = 'center'>
-  <a href="https://github.com/WilliamPasternak/No-Spoilers-Chrome-Extension" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-  </p>
-    
-    
-  <!-- Banned Word & Phrase Checker --> 
-   <h3 align="center"> Banned Word & Phrase Checker </h3>
-        <strong> <p align = 'center' > HTML | CSS | Javascript </p> </strong>
-  <p align ='center'> A tool for writers and editors to quickly check if their writing sample contains any undesireable words or phrases such as clichés.</p>
-   
-<!-- Site Demo -->
-  <p align = 'center'><img align="center" width = '600' height = '375' src="https://github.com/WilliamPasternak/Banned-Phrases/raw/main/walkthrough.gif" alt="Banned Word and Phrase Checker"></p>
-  
-  <!-- Icons -->
-  <p align = 'center'>
-  <a href="https://github.com/WilliamPasternak/Banned-Phrases" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-  <a href="https://bannedphrases.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-  </p>
- 
-  
-
-
-
