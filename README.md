@@ -107,27 +107,6 @@ Once the pandemic hit, the service industry was devastated. I leaned into my eng
   </p>
     
     
-    
-
-  <!-- Top Flor Beverage --> 
-   <h3 align="center"> Top Flor Wine </h3>
-        <strong> <p align = 'center' > HTML | CSS | JavaScript </p> </strong>
-  <p align ='center'> A fully responsive website outlining for 'Top Flor' an agency specializing in wine and cocktail program curation.</p>
-
-<!-- Gif Site Demo -->
-  <p align = 'center'><img align="center" src="https://github.com/WilliamPasternak/Top-Flor/raw/main/Top%20Floor%20Walkthrough.gif" alt="Top Flor Beverage website"></p>
-  
-<!-- Icons -->
-  <p align = 'center'>
-  <a href="https://github.com/WilliamPasternak/Top-Flor" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-  <a href="https://www.topflorwine.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-  </p>
-    
-    
   <!-- Banned Word & Phrase Checker --> 
    <h3 align="center"> Banned Word & Phrase Checker </h3>
         <strong> <p align = 'center' > HTML | CSS | Javascript </p> </strong>
