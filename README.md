@@ -9,8 +9,8 @@
     
 I began creating and sharing [free resources and tools](http://www.onbarmanagement.com/) for people in the hospitality industry.
 
+I have been freelancing for the last several years and have had some wonderful [clients](https://www.williampasternak.com/)
     
-<p> I have been freelancing for the last several years and have had some wonderful [clients.](https://www.williampasternak.com/) but </p> <br>
 <strong> I am now ready to join a product team to build software that people love and use daily. </strong>
 
 </div>
