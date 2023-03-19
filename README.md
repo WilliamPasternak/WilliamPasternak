@@ -13,13 +13,6 @@ Once the pandemic hit, the service industry was devastated. I leaned into my eng
 <strong >  I’m now ready to join a product team to build software that people love and use daily.  </strong>
 </div>
     
-<h2> Contact </h2>
-
-- 📫 **william@williampasternak.com**
-
-- 🌐 [WilliamPasternak.com](https://www.williampasternak.com/)
-
-
 <!-- Social -->
   <h3 align="center">Social</h3>
   
