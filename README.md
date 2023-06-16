@@ -6,7 +6,8 @@
 <div align = 'center'>
 
 I create and share [free resources and tools](http://www.onbarmanagement.com/) for people in the hospitality industry 
-    
+
+[Portfolio](https://www.williampasternak.com/)
 
 </div>
     
