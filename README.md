@@ -4,14 +4,9 @@
 </div>
 
 <div align = 'center'>
-<p> I learned to code so that I could make software that would improve my life and the lives of my coworkers. </p>
-    
-    
-I began creating and sharing [free resources and tools](http://www.onbarmanagement.com/) for people in the hospitality industry.
 
-I have been freelancing for the last several years and have had some wonderful [clients](https://www.williampasternak.com/)
+I create and share [free resources and tools](http://www.onbarmanagement.com/) for people in the hospitality industry 
     
-<strong> I am now ready to join a product team to build software that people love and use daily. </strong>
 
 </div>
     
