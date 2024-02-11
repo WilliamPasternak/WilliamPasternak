@@ -1,14 +1,4 @@
-<div align = 'center'>
-    <h1> www.williampasternak.com  <br> 
-    <p align="center">
-   
-<a href="https://twitter.com/whalepasternak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="whalepasternak" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/williampasternak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="williampasternak" height="30" width="40" /></a>
-    <a href="https://www.leetcode.com/williampasternak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="williampasternak" height="30" width="40" /></a>    
-</p></h1>
-    <p align="center">
-
-<h3>  👋 I'm a NYC-based Full Stack JavaScript Engineer with over a decade of hospitality experience. </h3>
+<h1 align ='center'>  👋 I'm a NYC-based Full Stack JavaScript Engineer with over a decade of hospitality experience. </h1>
     
 </div> 
 
