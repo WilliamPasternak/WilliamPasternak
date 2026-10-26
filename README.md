@@ -1,5 +1,7 @@
+<h1 align="center">Software Developer · Hospitality Tech · Software & Data</h1>
 
-<h1 align="center">From Hospitality to Software Development.</h1>
+<h2 align="center">From Hospitality to Software Development</h2>
+
 
 <div align="center">
   <p>
